@@ -13,4 +13,7 @@ $("#submit-btn").on("click", function() {
 
 	console.log(nameInfo + ", " + roleInfo + ", " + startDateInfo + ", " + monthlyRateInto);
 
+	// need to add code to put values into table
+	
+
 });
